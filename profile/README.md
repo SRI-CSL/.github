@@ -1,7 +1,7 @@
 # SRI International's Computer Science Laboratory
 
 
-The Computer Science Laboratory studies the logical foundations of
+The [Computer Science Laboratory](http://www.csl.sri.com/) studies the logical foundations of
 scalable systems that are beyond the scope of traditional testing or
 simulation, and builds and applies efficient high-level tools for
 rigorous mechanical analysis. Current systems of interest include not
