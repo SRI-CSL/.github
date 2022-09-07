@@ -1,10 +1,4 @@
-<p align="center">
-<img align="center" src="images/sri-logo.png?raw_true">
-</p>
-
-SRI International's Computer Science Laboratory
-======
-
+# SRI International's Computer Science Laboratory
 
 
 The Computer Science Laboratory studies the logical foundations of
